@@ -5,3 +5,7 @@
 Java 1.8
 
 Spring Boot 2.1.6发行版
+
+
+入口类
+novelserver.NovelServerApplication
